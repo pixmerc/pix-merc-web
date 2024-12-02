@@ -1,0 +1,17 @@
+.header {
+    margin-top: 1.2rem;
+    background-color: honeydew;
+    width: 100%;
+    padding: 0.6rem;
+    /* height: 4rem; */
+}
+
+.logo {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3pc;
+    color: #010101;
+}
+
+.navbar {
+    width: 40%;
+}
